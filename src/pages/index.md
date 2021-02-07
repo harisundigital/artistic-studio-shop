@@ -6,8 +6,9 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: |
-      Artistic Studio Clay Prducts. Earthen Love. Art with Clay. Elegant design.
+    content: >
+      # Artistic Studio Clay Products. Earthen Love. Art with Clay. Elegant
+      design.
     actions:
       - type: action
         title: See all items
